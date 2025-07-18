@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pratttikkKk
+- 👋 Hi, I’m @pratik_farate_
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
