@@ -1,25 +1,34 @@
-# 👋 Hi, I'm Pratik Farate
+# 👋 Hi, I'm Pratik Suresh Farate
 
-### 🚀 Android Developer | Full-Stack Developer | AI Enthusiast
+### Backend Developer | Node.js | Express.js | MongoDB | Android | AI
 
-I’m a **Computer Science & Engineering student** passionate about building **real-world applications** with Android, backend technologies, and AI.
+Final-year CSE student and Backend Developer Intern focused on building
+secure, database-driven applications and practical software systems.
 
-* 📱 Building with **Kotlin & Jetpack Compose**
-* 🌐 Developing backends with **Node.js, Express & MongoDB**
-* 🤖 Exploring **Generative AI & RAG**
-* 🧠 Practicing **DSA in Java**
-* 🔧 Currently building **Smart Mechanic — an AI-powered roadside assistance platform**
+🚀 Building backend systems with **Node.js, Express.js, MongoDB & PostgreSQL**  
+🔐 REST APIs, **JWT Authentication & RBAC**  
+🐳 Docker & **GitHub Actions CI/CD**  
+📱 Android development with **Kotlin & Jetpack Compose**  
+🤖 LLM-integrated applications with **Ollama & Prompt Engineering**  
+🧠 **120+ DSA problems** solved on LeetCode
 
-### 🛠️ Tech Stack
+### Featured Work
 
-`Kotlin` `Jetpack Compose` `Java` `Node.js` `Express.js` `MongoDB` `Firebase` `REST APIs` `Git` `GitHub`
+**🛒 MarketSphere** — Multi-vendor E-Commerce Platform  
+Node.js • Express.js • MongoDB • Docker • CI/CD
 
-### 🎯 Currently
+**🚗 SmartMechanic** — AI-Powered Vehicle Service Platform  
+Kotlin • Jetpack Compose • Node.js • MongoDB • 15+ REST APIs
 
-**Building → Learning → Solving → Improving**
+**🏭 Prodi** — AI-Powered Manufacturing Analytics  
+FastAPI • PostgreSQL • Ollama • LLM Query Routing
 
-> 💡 *I don't just learn technology — I build with it.*
+**🏛️ SAMVED** — Smart Governance Complaint Platform  
+Kotlin • Jetpack Compose • REST APIs • GPS
 
----
+### 🔗 Connect
 
-📫 **Let's connect and build something impactful.**
+[LinkedIn](https://www.linkedin.com/in/pratik-farate-36bab1299) •
+[Portfolio](https://portfolio-rose-beta-26.vercel.app/) •
+[LeetCode](https://leetcode.com/) •
+[Email](mailto:pratikfarate33@gmail.com)
